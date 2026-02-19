@@ -34,7 +34,7 @@ I love converting **raw data → meaningful insights → business impact** throu
 - Built a complete ticket tracking application  
 - Role-based login & secure authentication  
 - Dashboard with ticket trends and KPIs  
-🔗 *[Add GitHub link here]*  
+🔗 *https://github.com/Abubabu23/Project_1*  
 
 ---
 
@@ -42,7 +42,7 @@ I love converting **raw data → meaningful insights → business impact** throu
 **Tech:** Python, Pandas, NumPy, Power BI  
 - Market behavior, volatility, and trend exploration  
 - Interactive BI dashboard  
-🔗 *[Add GitHub link here]*  
+🔗 *https://github.com/Abubabu23/Data-Driven-Stock-Analysis*  
 
 ---
 
@@ -50,7 +50,7 @@ I love converting **raw data → meaningful insights → business impact** throu
 **Tech:** Python, Streamlit, Sklearn  
 - User-based clustering model  
 - Streamlit UI Recommendation App  
-🔗 *[Add GitHub link here]*  
+🔗 *https://github.com/Abubabu23/Swiggy-s-Restaurant-Recommendation-System-using-Streamlit*  
 
 ---
 
@@ -58,7 +58,7 @@ I love converting **raw data → meaningful insights → business impact** throu
 **Tech:** Selenium, TF-IDF, Cosine Similarity, Streamlit  
 - Scraped IMDb 2024 movie dataset  
 - NLP-based movie similarity engine  
-🔗 *[Add GitHub link here]*  
+🔗 *https://github.com/Abubabu23/IMDB-Movie-Recommendation-System-Storyline-Based-*  
 
 ---
 
@@ -66,7 +66,7 @@ I love converting **raw data → meaningful insights → business impact** throu
 **Tech:** Python, ML Models  
 - EDA + Multiple model evaluation  
 - Feature importance analysis  
-🔗 *[Add GitHub link here]*  
+🔗 *https://github.com/Abubabu23/Heart-Disease-Prediction-using-EDA-Machine-Learning*  
 
 ---
 
@@ -74,7 +74,7 @@ I love converting **raw data → meaningful insights → business impact** throu
 **Tech:** Python, Sklearn  
 - Nutritional dataset cleaning  
 - Classification model with optimized accuracy  
-🔗 *[Add GitHub link here]*  
+🔗 *https://github.com/Abubabu23/NutriClass-Food-Classification-Using-Nutritional-Data*  
 
 ---
 
@@ -87,7 +87,7 @@ I love converting **raw data → meaningful insights → business impact** throu
 
 ## 📊 GitHub Stats
 
-![Abubabu23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abubabu23&show_icons=true&theme=tokyonight)
+![Abubabu23's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abubabu23&show_icons=true&theme=tokyonight)
 
 ---
 
