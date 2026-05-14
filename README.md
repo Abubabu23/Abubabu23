@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abuthahir  
-### 🧑‍💻 Data Analyst | Junior Data Scientist  | AI product support | Computer Vision annotation add 
+### 🧑‍💻 Data Analyst | Junior Data Scientist  | AI product support | Computer Vision annotation
 📍 Salem, Tamil Nadu &nbsp;|&nbsp; 📧 abubabu7862@gmail.com  
 
 ---
