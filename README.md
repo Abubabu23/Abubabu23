@@ -20,7 +20,7 @@
 
 ## 📝 About Me
 
-I am a **data-driven professional** with 3+ years of **Operational & Application Support** experience.  
+I am a **data-driven professional** with 5+ years of **Operational & Application Support** experience.  
 Skilled in **Python, SQL, Pandas, NumPy, Power BI, Excel, Streamlit**, and Machine Learning.  
 
 I love converting **raw data → meaningful insights → business impact** through dashboards, analysis & ML workflows.
