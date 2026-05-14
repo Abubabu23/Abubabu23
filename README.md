@@ -20,8 +20,11 @@
 
 ## 📝 About Me
 
-I am a **data-driven professional** with 5+ years of **Operational & Application Support** experience.  
+I am a **data-driven professional** with 5+ years of **AI Product Operations & Application Support**.  
 Skilled in **Python, SQL, Pandas, NumPy, Power BI, Excel, Streamlit**, and Machine Learning.  
+
+Experienced in Computer Vision image annotation (bounding box, polyline, polygon) 
+and contributing to AIML production projects in AI-powered retail environments.
 
 I love converting **raw data → meaningful insights → business impact** through dashboards, analysis & ML workflows.
 
