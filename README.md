@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abuthahir  
 ### 🧑‍💻 Data Analyst | Junior Data Scientist  | AI product support | Computer Vision annotation
-📍 Salem, Tamil Nadu &nbsp;|&nbsp; 📧 abubabu7862@gmail.com  
+📍 Erode, Tamil Nadu &nbsp;|&nbsp; 📧 abubabu7862@gmail.com  
 
 ---
 
@@ -94,7 +94,7 @@ I love converting **raw data → meaningful insights → business impact** throu
 🔗 **LinkedIn:** https://www.linkedin.com/in/abuthahir-b-8b15892a6/  
 🔗 **GitHub:** https://github.com/Abubabu23  
 📧 **Email:** abubabu7862@gmail.com  
-📍 **Location:** Salem, Tamil Nadu  
+📍 **Location:** Erode, Tamil Nadu  
 
 ---
 
