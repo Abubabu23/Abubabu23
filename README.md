@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Abuthahir  
-### 🧑‍💻 Data Analyst | Junior Data Scientist  | AI product support | Computer Vision annotation
-📍 Erode, Tamil Nadu &nbsp;|&nbsp; 📧 abubabu7862@gmail.com  
+# 👋 Hi, I'm Abuthahir B
+### 🧑‍💻 Data Scientist | ML Engineer | NLP, RAG & LLM Systems
+📍 Erode, Tamil Nadu &nbsp;|&nbsp; 📧 abubabu7862@gmail.com &nbsp;|&nbsp; 🌐 [abubabu23.github.io](https://abubabu23.github.io)
 
 ---
 
@@ -10,92 +10,93 @@
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
 
 ---
 
 ## 📝 About Me
 
-I am a **data-driven professional** with 5+ years of **AI Product Operations & Application Support**.  
-Skilled in **Python, SQL, Pandas, NumPy, Power BI, Excel, Streamlit**, and Machine Learning.  
+Recent **B.E Computer Science graduate** with hands-on AI/ML experience, certified through **GUVI, IIT Madras Research Park** in Data Science, Machine Learning, NLP, and Generative AI.
 
-Experienced in Computer Vision image annotation (bounding box, polyline, polygon) 
-and contributing to AIML production projects in AI-powered retail environments.
+I've built 6 end-to-end ML/NLP projects covering the full pipeline — from **RAG-based AI copilots** using LangChain, FAISS, and HuggingFace embeddings, to recommendation systems, classification models, and interactive dashboards.
 
-I love converting **raw data → meaningful insights → business impact** through dashboards, analysis & ML workflows.
+I love turning **raw data → grounded AI systems → real-world impact**.
 
----
-
-# 📂 Featured Projects  
-
-### ⭐ **Client Query Management System**
-**Tech:** Python, Streamlit, MySQL, Plotly  
-- Built a complete ticket tracking application  
-- Role-based login & secure authentication  
-- Dashboard with ticket trends and KPIs  
-🔗 *https://github.com/Abubabu23/Project_1*  
+📄 Portfolio: [abubabu23.github.io](https://abubabu23.github.io)
+🟢 Open to Data Scientist / ML Engineer / AI Developer roles — anywhere in India or remote.
 
 ---
 
-### ⭐ **Stock Market Trend Analysis (Nifty 50)**
-**Tech:** Python, Pandas, NumPy, Power BI  
-- Market behavior, volatility, and trend exploration  
-- Interactive BI dashboard  
-🔗 *https://github.com/Abubabu23/Data-Driven-Stock-Analysis*  
+# 📂 Featured Projects
+
+### ⭐ Telecom AI Copilot (RAG-based Chatbot)
+**Tech:** LangChain, FAISS, HuggingFace, DistilBERT, RoBERTa, Llama 3.3 70B (Groq API)
+- LangChain-based RAG architecture for document-grounded customer support over 100+ policy/pricing documents
+- Intent classification (DistilBERT) and sentiment analysis (RoBERTa) to route and prioritize queries — 100% intent accuracy
+- Sub-second FAISS retrieval (<1s) with 90%+ retrieval accuracy; responses generated via Llama 3.3 70B on Groq
+🔗 *https://github.com/Abubabu23/ZENDS-AI-Copilot*
 
 ---
 
-### ⭐ **Swiggy Restaurant Recommendation System**
-**Tech:** Python, Streamlit, Sklearn  
-- User-based clustering model  
-- Streamlit UI Recommendation App  
-🔗 *https://github.com/Abubabu23/Swiggy-s-Restaurant-Recommendation-System-using-Streamlit*  
+### ⭐ IMDb Movie Recommendation System (NLP)
+**Tech:** Python, Selenium, NLP, TF-IDF, Cosine Similarity, Streamlit
+- Scraped and analyzed 300+ IMDb 2024 movies
+- Storyline-based recommendations with 85%+ relevant matches, deployed on Streamlit Cloud
+🔗 *https://github.com/Abubabu23/IMDB-Movie-Recommendation-System-Storyline-Based-*
 
 ---
 
-### ⭐ **IMDb Movie Recommendation (NLP + Selenium)**
-**Tech:** Selenium, TF-IDF, Cosine Similarity, Streamlit  
-- Scraped IMDb 2024 movie dataset  
-- NLP-based movie similarity engine  
-🔗 *https://github.com/Abubabu23/IMDB-Movie-Recommendation-System-Storyline-Based-*  
+### ⭐ NutriClass – Food Classification Using Nutritional Data
+**Tech:** Python, Scikit-learn, Logistic Regression, Random Forest, SVM, XGBoost, KNN
+- Multi-class food classification from nutritional attributes
+- End-to-end preprocessing, feature engineering, and evaluation (Accuracy, Precision, Recall, F1)
+🔗 *https://github.com/Abubabu23/NutriClass-Food-Classification-Using-Nutritional-Data*
 
 ---
 
-### ⭐ **Heart Disease Prediction**
-**Tech:** Python, ML Models  
-- EDA + Multiple model evaluation  
-- Feature importance analysis  
-🔗 *https://github.com/Abubabu23/Heart-Disease-Prediction-using-EDA-Machine-Learning*  
+### ⭐ Data-Driven Stock Analysis Dashboard
+**Tech:** Python, Pandas, SQL, Streamlit, Power BI
+- Nifty 50 performance — volatility, cumulative returns, sector trends, correlations
+- Automated pipeline turning YAML stock data into structured CSV/SQL for real-time insight
+🔗 *https://github.com/Abubabu23/Data-Driven-Stock-Analysis*
 
 ---
 
-### ⭐ **NutriClass – Food Classification**
-**Tech:** Python, Sklearn  
-- Nutritional dataset cleaning  
-- Classification model with optimized accuracy  
-🔗 *https://github.com/Abubabu23/NutriClass-Food-Classification-Using-Nutritional-Data*  
+### ⭐ Swiggy Restaurant Recommendation System
+**Tech:** Python, Pandas, One-Hot Encoding, K-Means / Cosine Similarity, Streamlit
+- Personalized restaurant suggestions based on city, cuisine, rating, and cost preferences
+🔗 *https://github.com/Abubabu23/Swiggy-s-Restaurant-Recommendation-System-using-Streamlit*
+
+---
+
+### ⭐ Client Query Management System
+**Tech:** Python, MySQL, Pandas, Streamlit
+- Real-time client support query management with secure login and status tracking
+🔗 *https://github.com/Abubabu23/Client-Query-Management-System*
 
 ---
 
 ## 🎓 Certifications
-- Data Science Program – GUVI, IIT Madras Research Park  
-- Advanced Excel  
-- Power BI (Hands-on Learning)
-
-
----
-
-## 🤝 Connect With Me  
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/abuthahir-b-8b15892a6/  
-🔗 **GitHub:** https://github.com/Abubabu23  
-📧 **Email:** abubabu7862@gmail.com  
-📍 **Location:** Erode, Tamil Nadu  
+- Master Data Science Program – GUVI, IIT Madras Research Park
+- Advanced Professional Certification in Data Science – GUVI Geek Network Pvt Ltd (Grade A, Skill India & NSDC recognized)
+- Yellow Belt Certification – NextWealth
 
 ---
 
-⭐ *Thanks for visiting my portfolio! Feel free to explore my repositories.*  
+## 🤝 Connect With Me
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/abuthahir-babu-8b15892a6/
+🔗 **GitHub:** https://github.com/Abubabu23
+🌐 **Portfolio:** https://abubabu23.github.io
+📧 **Email:** abubabu7862@gmail.com
+📍 **Location:** Erode, Tamil Nadu
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
